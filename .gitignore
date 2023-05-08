@@ -24,7 +24,7 @@ node_modules/
 creds.js
 
 # Private Files
-*.json
+
 *.csv.gz
 *.tsv
 *.tsv.gz
@@ -367,7 +367,7 @@ cython_debug/
 
 # Private Node Modules
 node_modules/
-package-lock.json
+
 creds.js
 
 # Private Files
