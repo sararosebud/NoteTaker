@@ -29,6 +29,9 @@ To see the code visit [NoteTaker](https://github.com/sararosebud/NoteTaker) on g
 
 ## Usage
 <a name="usage"></a>
+
+[Watch a demo](https://watch.screencastify.com/v/VWxBpHz8a0kYyWJ3EOKA)
+
 Open the Note Taker app to find a landing page with a link to a notes page. Click the 'get started' button to be redirected to a notes page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.Enter a new note and note text then click the save icon that appears once text is in the fields. The new note will appear on the left where it can be clicked to expand the note on the right. A delete button  is to the right of every note making it easy to delete the notes. The plus icon at the top right will empty the fields so that a new note and note title can be entered. Enjoy! 
 
 ## License
