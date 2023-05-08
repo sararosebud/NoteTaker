@@ -8,18 +8,24 @@
 Note Taker app that can be used to write and take notes. The app uses an Express.js backend and saves and retrieves note data from a JSON file. The apps front end was built, and the backend was created and connected. 
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Note Taker](#note-taker)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions:](#questions)
 
 
 ## Installation
 <a name="installation"></a>
-Visit [here](https://nodejs-note-taker-sarawendland.herokuapp.com/) to start taking notes! 
+
+To Start Taking Notes:
+<a href= "https://nodejs-note-taker-sarawendland.herokuapp.com/" target= "_blank">Follow this Link</a> 
+
+To see the code visit [NoteTaker](https://github.com/sararosebud/NoteTaker) on github. 
 
 ## Usage
 <a name="usage"></a>
